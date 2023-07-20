@@ -20,7 +20,7 @@ CipherVault is a secure encryption code repository that provides a collection of
 
 1. Clone the repository: `git clone https://github.com/lordtarun2203/InfoSec_CipherVault.git`
 
-2. Navigate to the project directory: `cd ciphervault`
+2. Navigate to the project directory: `cd InfoSec_CipheVvault`
 
 3. Choose your desired cipher and run the corresponding menu-driven program.
 
