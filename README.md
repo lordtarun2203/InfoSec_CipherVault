@@ -44,12 +44,8 @@ We welcome contributions to make CipherVault even better! If you'd like to contr
 
 Please ensure that your contributions adhere to our code quality standards and follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-## License
-
-CipherVault is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
-If you have any questions or feedback, feel free to reach out to us at ciphervault@example.com.
+If you have any questions or feedback, feel free to reach out to me at tarunaaditya98@gmail.com.
 
 Let's unlock the secrets of cryptography together with CipherVault!
